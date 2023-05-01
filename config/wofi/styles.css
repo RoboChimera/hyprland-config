@@ -1,0 +1,36 @@
+* {
+	border: none;
+}
+
+#outer-box {
+	border: 7px solid #b16286;
+	border-radius: 3px;
+}
+
+window {
+	font-size: 24px;
+	font-family: "JetBrains Mono";
+	background-color: #282828;
+	color: #ebdbb2;
+	border-radius: 3px;
+}
+
+.entry:selected {
+	background-color: #3c3836;
+	color: #ebdbb2;
+}
+
+#text:selected {
+	color: #1d2021;
+}
+
+#input {
+	background-color: #1d2021;
+	border-bottom: 3px solid transparent;
+	color: #ebdbb2;
+}
+
+image {
+	margin-left: .25em;
+	margin-right: .25em;
+}

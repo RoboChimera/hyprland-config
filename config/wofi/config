@@ -1,0 +1,10 @@
+show=drun
+prompt=Apps
+layer=overlay
+term=kitty
+columns=1
+width=23.33%
+
+allow_markup=false
+allow_images=false
+image_size=32
