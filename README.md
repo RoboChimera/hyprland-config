@@ -21,6 +21,7 @@
 
 ## Sources for the wallpapers
 
-Because of the reddit blackout, I'm not sure that my r/unixporn post will stay in the same place, the sources to these wallpapers and the tools I used will be here 
+Because of the reddit blackout, I'm not sure that my r/unixporn post will stay in the same place, the sources to these wallpapers and the tools I used will be here
 
+https://twitter.com/Smol_Mitto/status/1661688713083244545
 https://wall.alphacoders.com/big.php?i=963503
