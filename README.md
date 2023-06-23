@@ -8,6 +8,8 @@
 ![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Screenshots/20230501_10h53m53s_grim.png)
 ![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Screenshots/20230501_10h56m54s_grim.png)
 
+## Screenshots with a different wallpaper
+
 ## Wallpaper
 
 ![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Wallpaper/future-wallpaper.png)
