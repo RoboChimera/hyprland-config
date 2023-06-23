@@ -10,7 +10,7 @@
 
 ## Screenshots with a different wallpaper
 
-![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/screenshot_2023-06-23-160338.png)
+![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Screenshot_2023-06-23-160338.png)
 
 ## Wallpaper
 
