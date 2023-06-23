@@ -18,6 +18,7 @@
 ## Wallpaper
 
 ![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Wallpaper/future-wallpaper.png)
+![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Wallpaper/teto-wallpaper.png)
 
 ## Sources for the wallpapers
 
