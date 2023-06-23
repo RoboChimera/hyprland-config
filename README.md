@@ -18,3 +18,9 @@
 ## Wallpaper
 
 ![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Wallpaper/future-wallpaper.png)
+
+## Sources for the wallpapers
+
+Because of the reddit blackout, I'm not sure that my r/unixporn post will stay in the same place, the sources to these wallpapers and the tools I used will be here 
+
+https://wall.alphacoders.com/big.php?i=963503
