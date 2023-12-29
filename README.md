@@ -20,6 +20,9 @@
 ![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Wallpaper/future-wallpaper.png)
 ![image](https://raw.githubusercontent.com/RoboChimera/hyprland-config/main/Wallpaper/teto-wallpaper.png)
 
+## Theme
+https://www.pling.com/p/1436515/
+
 ## Sources for the wallpapers
 
 Because of the reddit blackout, I'm not sure that my r/unixporn post will stay in the same place, the sources to these wallpapers and the tools I used will be here
